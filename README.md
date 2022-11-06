@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World! 👋
+- 🔭 I’m currently working on my degree in Computer Science!
+- 🌱 Looking to start my first steps in the programing world!
+- 👯 I’m looking to collaborate on advanced coding princples and projects!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alon-negrin-8241a4224/)
 
 <!--
 **AlonNegrin/AlonNegrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
