@@ -1,12 +1,14 @@
 ###                                     Hello World! 👋
 
 - 🔭 I’m currently working on my degree in Computer Science!
-- 
+
 - 🌱 Looking to start my first steps in the programing world!
-- 
+
 - 👯 I’m looking to collaborate on advanced coding princples and projects!
-- 
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alon-negrin-8241a4224/)
+
+[![AlonNegrin's github stats](https://github-readme-stats.vercel.app/api?username=AlonNegrin&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AlonNegrin/AlonNegrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
