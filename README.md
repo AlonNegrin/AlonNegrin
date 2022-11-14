@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my degree in Computer Science!
 
-- 🌱 Looking to start my first steps in the programing world!
+- 🌱 Ready to walk my first steps in the professional programing world! 
 
 - 👯 I’m looking to collaborate on advanced coding princples and projects!
 
